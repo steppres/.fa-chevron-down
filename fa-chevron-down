@@ -1,3 +1,6 @@
+@document url-prefix("https://communities.win/c/IP2Always/"){[
+
 .fa-chevron-down {
     display: inline-block !important;
+}
 }
